@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo-frontend
 
 Repository frontend Svelte + TypeScript dengan Vite, dijalankan memakai Bun.
@@ -53,3 +54,6 @@ git push -u origin main
 ```
 
 Ganti USERNAME dengan akun GitHub sendiri.
+=======
+# Todo-FrontEnd
+>>>>>>> 912ed41ca46996c21b5314624320ef666f2b14b6
