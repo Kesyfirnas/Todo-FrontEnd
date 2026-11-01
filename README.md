@@ -27,9 +27,6 @@ Dengan proxy ini, browser mengakses origin frontend sehingga CORS tidak diperluk
 untuk demo lokal. Hosting frontend statis membutuhkan reverse proxy /api tersendiri,
 atau penyesuaian URL API dan konfigurasi CORS backend.
 
-Fitur: daftar tugas, tambah, tandai selesai/batalkan, hapus, dan pesan error.
-Data hilang ketika backend restart.
-
 ## Periksa dan build
 
 ```sh
@@ -39,21 +36,3 @@ bun --bun vite preview
 ```
 
 Backend harus tetap aktif saat mencoba hasil build melalui preview.
-
-## Membuat repository Git
-
-Buat repository GitHub kosong bernama `todo-frontend`, lalu:
-
-```sh
-git init
-git add .
-git commit -m "Initial Svelte frontend"
-git branch -M main
-git remote add origin https://github.com/USERNAME/todo-frontend.git
-git push -u origin main
-```
-
-Ganti USERNAME dengan akun GitHub sendiri.
-=======
-# Todo-FrontEnd
->>>>>>> 912ed41ca46996c21b5314624320ef666f2b14b6
