@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # todo-frontend
 
 Repository frontend Svelte + TypeScript dengan Vite, dijalankan memakai Bun.
